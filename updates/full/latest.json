@@ -1,0 +1,10 @@
+{
+  "packageName": "com.apps.monthofdoram",
+  "channel": "fullRelease",
+  "versionCode": 55,
+  "versionName": "1.5.5",
+  "apkUrl": "https://github.com/moonrabbitstudia/moonrabbitstudia.github.io/releases/download/v1.5.5-full/month-of-doram-1.5.5-full.apk",
+  "sha256": "778ae8e6b1da20e6e375a7573de63377e4f40943868ea0006795a7c10a51d102",
+  "sizeBytes": 14286482,
+  "notes": "Исправлен поиск названий; подключены обновления через GitHub"
+}
